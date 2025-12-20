@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Funny Bunny",
+  "base_artist": "the pillows",
+  "createdAt": "2025-12-20T10:54:47.373756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Funny Bunny",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/01_Funny_Bunny_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Funny Bunny",
+      "artist": "The Sketchbook",
+      "has_synced": true,
+      "path": "select/02_Funny_Bunny_The_Sketchbook.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honey Funny Bunny",
+      "artist": "TVXQ",
+      "has_synced": false,
+      "path": "select/03_Honey_Funny_Bunny_TVXQ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honey Funny Bunny",
+      "artist": "TVXQ!",
+      "has_synced": false,
+      "path": "select/04_Honey_Funny_Bunny_TVXQ!.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Funny Bunny",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/05_Funny_Bunny_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honey Funny Bunny",
+      "artist": "DBSK",
+      "has_synced": false,
+      "path": "select/06_Honey_Funny_Bunny_DBSK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honey Funny Bunny",
+      "artist": "DBSK",
+      "has_synced": true,
+      "path": "select/07_Honey_Funny_Bunny_DBSK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Funny Bunny Nails",
+      "artist": "D-Block Europe",
+      "has_synced": true,
+      "path": "select/08_Funny_Bunny_Nails_D-Block_Europe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Funny Bunny",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/09_Funny_Bunny_Uru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Funny Bunny",
+      "artist": "The Pillows",
+      "has_synced": false,
+      "path": "select/pl_01_Funny_Bunny_The_Pillows.txt"
+    }
+  ]
+}
